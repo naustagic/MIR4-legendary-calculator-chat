@@ -1,4 +1,4 @@
-# MIR4-legendary-calculator-chat
+# Legendary Crafting Calculator with Chat
 MIR4 Legendary Weapon &amp; Accessories Calculator with Chat Users PHP
 
 ![image](https://github.com/kimmartelolives/MIR4-legendary-calculator-chat/assets/61133176/729108f1-7b56-4315-aabe-b02ccfe81580)
